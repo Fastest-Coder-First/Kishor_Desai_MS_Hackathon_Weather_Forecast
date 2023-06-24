@@ -20,6 +20,11 @@ Before running the tool, ensure you have the following dependencies installed:
 ## Architecture Diagram
 <img src="images/Picture1.png" width="1000">
 
+## How Co-Pilot helped me write Code faster
+<img src="images/Picture5.png" width="1000">
+
+<img src="images/Picture6.png" width="1000">
+
 ## Output
 Expected Output : 
 <img src="./images/Picture2.png" width="1000">
