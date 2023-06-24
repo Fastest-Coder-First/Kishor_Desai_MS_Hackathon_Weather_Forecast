@@ -52,3 +52,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 If you have any questions or need assistance, feel free to contact [kishord.bsc22@rvu.edu.in](mailto:kishord.bsc22@rvu.edu.in).
 
 That's it! You can customize the README file as per your requirements and add any additional sections or information you deem necessary.
+
+## Thank You
+Thank You Microsoft and GitHub Co-Pilot for all the Facilities and providing access to GitHub Co-Pilot with RedBull 😂
+<img scr="images/redbull.jpg" width="1000">
