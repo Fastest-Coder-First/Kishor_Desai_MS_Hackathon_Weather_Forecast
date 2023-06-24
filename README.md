@@ -41,7 +41,7 @@ This project is licensed under the MIT License. For more information, please ref
 
 ## Acknowledgements
 
-This tool uses the [OpenWeatherMap API](https://openweathermap.org/api) to fetch weather data.
+This tool uses the [Weather API]([https://openweathermap.org/api](https://www.weatherapi.com/)) to fetch weather data.
 
 ## Contributing
 
@@ -55,4 +55,4 @@ That's it! You can customize the README file as per your requirements and add an
 
 ## Thank You
 Thank You Microsoft and GitHub Co-Pilot for all the Facilities and providing access to GitHub Co-Pilot with RedBull 😂
-<img scr="images/redbull.jpg" width="1000">
+<img src="images/redbull.jpg" width="1000">
