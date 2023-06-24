@@ -12,28 +12,6 @@ Before running the tool, ensure you have the following dependencies installed:
 - Requests library (can be installed using `pip install requests`)
 - Tabulate library (can be installed using `pip install tabulate`)
 
-## Usage
-
-To use the Weather Forecasting Tool, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/weather-forecast-tool.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd weather-forecast-tool
-   ```
-
-3. Run the tool with the desired city name as an argument:
-
-   ```bash
-   python weather_forecast.py
-   ```
-
 
 ## License
 
