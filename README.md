@@ -1,7 +1,5 @@
 # Kishor_Desai_MS_Hackathon_Weather_Forecast
 
-Sure! Here's an example of a README file for the Weather Forecasting Tool:
-
 # Weather Forecasting Tool
 
 This command-line tool accepts a city's name as input and returns the current weather forecast using the OpenWeatherMap API. It leverages Python to fetch weather data and parse it, demonstrating how GitHub Copilot can assist with API usage, data parsing, and error handling.
@@ -12,6 +10,7 @@ Before running the tool, ensure you have the following dependencies installed:
 
 - Python 3
 - Requests library (can be installed using `pip install requests`)
+- Tabulate library (can be installed using `pip install tabulate`)
 
 ## Usage
 
@@ -51,6 +50,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Support
 
-If you have any questions or need assistance, feel free to contact [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or need assistance, feel free to contact [kishord.bsc22@rvu.edu.in](mailto:kishord.bsc22@rvu.edu.in).
 
 That's it! You can customize the README file as per your requirements and add any additional sections or information you deem necessary.
