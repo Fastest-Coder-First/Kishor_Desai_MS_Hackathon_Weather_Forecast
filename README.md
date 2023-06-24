@@ -16,6 +16,9 @@ Before running the tool, ensure you have the following dependencies installed:
 
 - forecast.py - Is the Main Code file which takes the user input and gives the Weather Forecast Details as Output in a Tabular Format
 - test.py - Is the Code file used for Unit Testing
+
+## Output
+
   
 ## License
 
