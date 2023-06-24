@@ -18,10 +18,17 @@ Before running the tool, ensure you have the following dependencies installed:
 - test.py - Is the Code file used for Unit Testing
 
 ## Architecture Diagram
-<img src="images/Picture1.jpg width="1000">
+<img src="images/Picture1.png width="1000">
 
 ## Output
+Expected Output : 
+<img src="images/Picture2.png width="1000">
 
+Unit Test Result :
+<img src="images/Picture3.png width="1000">
+
+Error Handling if Integer (Please Note: API accepts any string, hence the results are visible for non-valid cities as well): 
+<img src="images/Picture4.png width="1000">
   
 ## License
 
