@@ -18,7 +18,7 @@ Before running the tool, ensure you have the following dependencies installed:
 - test.py - Is the Code file used for Unit Testing
 
 ## Architecture Diagram
-(images/Picture1.jpg)
+<img src="images/Picture1.jpg width="1000">
 
 ## Output
 
