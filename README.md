@@ -31,10 +31,9 @@ To use the Weather Forecasting Tool, follow these steps:
 3. Run the tool with the desired city name as an argument:
 
    ```bash
-   python weather_forecast.py "New York"
+   python weather_forecast.py
    ```
 
-   Replace `"New York"` with the name of the city for which you want to retrieve the weather forecast.
 
 ## License
 
